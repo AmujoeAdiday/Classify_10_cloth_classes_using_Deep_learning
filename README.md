@@ -1,5 +1,5 @@
 # Classify_10_cloth_classes_using_Deep_learning
-This project is fine tuning hyperparameters and improved regularization of the model.
+This project is fine tuning hyperparameters and improved regularization of the model of Fashion MNIST dataset which contains 70,000 grayscale images .
 
 
 Link on google colab :
