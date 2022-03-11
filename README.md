@@ -4,4 +4,4 @@ This project is fine tuning hyperparameters and improved regularization of the m
 
 Link on google colab :
 
-https://colab.research.google.com/drive/1Qmo__hmVFeL7w7SsBtX_MZR6DuqnAAKA?authuser=1
+https://colab.research.google.com/drive/1Qmo__hmVFeL7w7SsBtX_MZR6DuqnAAKA?authuser=0
